@@ -117,32 +117,12 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_night.png"
         },
         {
-          "id": "lut_neon_night_1792681296683",
-          "name": "Neon_Night",
-          "category_id": "cinematic",
-          "is_premium": true,
-          "intensity_default": 100,
-          "sort_order": 30,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/neon_night.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_night.png"
-        },
-        {
           "id": "lut_analog_800t_1792681401793",
           "name": "Analog_800T",
           "category_id": "cinematic",
           "is_premium": true,
           "intensity_default": 100,
           "sort_order": 31,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/analog_800t.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/analog_800t.png"
-        },
-        {
-          "id": "lut_analog_800t_1792681424127",
-          "name": "Analog_800T",
-          "category_id": "cinematic",
-          "is_premium": true,
-          "intensity_default": 100,
-          "sort_order": 32,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/analog_800t.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/analog_800t.png"
         }
@@ -225,16 +205,6 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/orange_skin_pop.png"
         },
         {
-          "id": "lut_orange_skin_pop_1792680916940",
-          "name": "Orange Skin Pop",
-          "category_id": "high_contrast",
-          "is_premium": true,
-          "intensity_default": 100,
-          "sort_order": 22,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/orange_skin_pop.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/orange_skin_pop.png"
-        },
-        {
           "id": "lut_summer_vibrant_1792681015897",
           "name": "Summer Vibrant",
           "category_id": "high_contrast",
@@ -245,42 +215,12 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
         },
         {
-          "id": "lut_summer_vibrant_1792681031557",
-          "name": "Summer Vibrant",
-          "category_id": "high_contrast",
-          "is_premium": true,
-          "intensity_default": 98,
-          "sort_order": 24,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/summer_vibrant.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
-        },
-        {
-          "id": "lut_summer_vibrant_1792681040016",
-          "name": "Summer Vibrant",
-          "category_id": "high_contrast",
-          "is_premium": true,
-          "intensity_default": 98,
-          "sort_order": 25,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/summer_vibrant.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
-        },
-        {
           "id": "lut_high_contrast_1792681542622",
           "name": "High Contrast",
           "category_id": "high_contrast",
           "is_premium": true,
           "intensity_default": 100,
           "sort_order": 33,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast.png"
-        },
-        {
-          "id": "lut_high_contrast_1792681591965",
-          "name": "High Contrast",
-          "category_id": "high_contrast",
-          "is_premium": true,
-          "intensity_default": 100,
-          "sort_order": 34,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast.png"
         }
@@ -329,16 +269,6 @@
           "is_premium": false,
           "intensity_default": 100,
           "sort_order": 26,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/black_white_soft.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/black_white_soft.png"
-        },
-        {
-          "id": "lut_black_white_soft_1792681168350",
-          "name": "Black White Soft",
-          "category_id": "vintage",
-          "is_premium": false,
-          "intensity_default": 100,
-          "sort_order": 27,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/black_white_soft.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/black_white_soft.png"
         }
