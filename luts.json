@@ -45,6 +45,16 @@
           "sort_order": 4,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/warm_35mm_film.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/warm_35mm_film.png"
+        },
+        {
+          "id": "lut_night_city_cobalt_1792643850615",
+          "name": "Night City Cobalt",
+          "category_id": "cinematic",
+          "is_premium": true,
+          "intensity_default": 100,
+          "sort_order": 10,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/night_city_cobalt.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/night_city_cobalt.png"
         }
       ]
     },
@@ -55,34 +65,54 @@
       "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/categories/high_contrast.png",
       "luts": [
         {
-          "id": "lut_high_contrast_deep_blacks_1792643474621",
-          "name": "High Contrast Deep Blacks",
-          "category_id": "high_contrast",
-          "is_premium": false,
-          "intensity_default": 92,
-          "sort_order": 5,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast_deep_blacks.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_deep_blacks.png"
-        },
-        {
-          "id": "lut_magenta_blue_1792643610615",
-          "name": "Magenta Blue",
-          "category_id": "high_contrast",
-          "is_premium": false,
-          "intensity_default": 90,
-          "sort_order": 6,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/magenta_blue.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/magenta_blue.png"
-        },
-        {
-          "id": "lut_concert_red_punch_1792643782985",
-          "name": "Concert Red Punch",
+          "id": "lut_high_contrast_crisp_1792643429296",
+          "name": "High Contrast Crisp",
           "category_id": "high_contrast",
           "is_premium": true,
-          "intensity_default": 100,
+          "intensity_default": 93,
+          "sort_order": 5,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast_crisp.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_crisp.png"
+        },
+        {
+          "id": "lut_neon_cyan_1792643520935",
+          "name": "Neon Cyan",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 91,
+          "sort_order": 6,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/neon_cyan.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_cyan.png"
+        },
+        {
+          "id": "lut_neon_cyan_1792643538351",
+          "name": "Neon Cyan",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 91,
           "sort_order": 7,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/concert_red_punch.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/concert_red_punch.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/neon_cyan.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_cyan.png"
+        },
+        {
+          "id": "lut_music_red_cyan_1792643659509",
+          "name": "Music Red Cyan",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 94,
+          "sort_order": 8,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/music_red_cyan.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/music_red_cyan.png"
+        },
+        {
+          "id": "lut_music_red_cyan_1792643720990",
+          "name": "Music Red Cyan",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 94,
+          "sort_order": 9,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/music_red_cyan.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/music_red_cyan.png"
         }
       ]
     },
