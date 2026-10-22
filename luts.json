@@ -7,16 +7,6 @@
       "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400",
       "luts": [
         {
-          "id": "teal_orange",
-          "name": "Teal & Orange",
-          "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/teal_orange.cube",
-          "is_premium": true,
-          "intensity_default": 70,
-          "sort_order": 1,
-          "category_id": "cinematic"
-        },
-        {
           "id": "moody_film",
           "name": "Moody Film",
           "thumbnail_url": "https://images.unsplash.com/photo-1511497584788-87676104235f?w=400",
