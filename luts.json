@@ -5,63 +5,32 @@
       "name": "Cinematic",
       "order": 1,
       "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400",
-      "luts": []
+      "luts": [
+        {
+          "id": "lut_high_contrast_warm_1792641793663",
+          "name": "High Contrast Warm",
+          "category_id": "cinematic",
+          "is_premium": true,
+          "intensity_default": 100,
+          "sort_order": 1,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast_warm.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_warm.png"
+        }
+      ]
     },
     {
       "id": "vintage",
       "name": "Vintage",
       "order": 2,
       "thumbnail_url": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=400",
-      "luts": [
-        {
-          "id": "golden_hour",
-          "name": "Golden Hour",
-          "thumbnail_url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/golden_hour.cube",
-          "is_premium": true,
-          "intensity_default": 75,
-          "sort_order": 1,
-          "category_id": "vintage"
-        },
-        {
-          "id": "retro_warm",
-          "name": "Retro Warm",
-          "thumbnail_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/retro_warm.cube",
-          "is_premium": false,
-          "intensity_default": 85,
-          "sort_order": 2,
-          "category_id": "vintage"
-        }
-      ]
+      "luts": []
     },
     {
       "id": "nature",
       "name": "Nature",
       "order": 3,
       "thumbnail_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=400",
-      "luts": [
-        {
-          "id": "nature_lush",
-          "name": "Nature Lush",
-          "thumbnail_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/nature_lush.cube",
-          "is_premium": false,
-          "intensity_default": 75,
-          "sort_order": 1,
-          "category_id": "nature"
-        },
-        {
-          "id": "urban_style",
-          "name": "Urban Style",
-          "thumbnail_url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/urban_style.cube",
-          "is_premium": true,
-          "intensity_default": 80,
-          "sort_order": 2,
-          "category_id": "nature"
-        }
-      ]
+      "luts": []
     }
   ]
 }
