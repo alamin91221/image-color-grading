@@ -53,7 +53,18 @@
       "name": "High Contrast",
       "order": 1,
       "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/categories/high_contrast.png",
-      "luts": []
+      "luts": [
+        {
+          "id": "lut_high_contrast_crisp_1792643429296",
+          "name": "High Contrast Crisp",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 93,
+          "sort_order": 5,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/high_contrast_crisp.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_crisp.png"
+        }
+      ]
     },
     {
       "id": "vintage",
