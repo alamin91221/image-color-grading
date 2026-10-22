@@ -105,26 +105,6 @@
           "sort_order": 10,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/music_red_cyan.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/music_red_cyan.png"
-        },
-        {
-          "id": "lut_bleach_bypass_1792680827761",
-          "name": "Bleach Bypass",
-          "category_id": "cinematic",
-          "is_premium": false,
-          "intensity_default": 100,
-          "sort_order": 20,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/bleach_bypass.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/bleach_bypass.png"
-        },
-        {
-          "id": "lut_bleach_bypass_1792680855256",
-          "name": "Bleach Bypass",
-          "category_id": "cinematic",
-          "is_premium": false,
-          "intensity_default": 100,
-          "sort_order": 21,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/bleach_bypass.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/bleach_bypass.png"
         }
       ]
     },
@@ -195,34 +175,54 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_crisp.png"
         },
         {
-          "id": "lut_moody_dark_1792680952652",
-          "name": "Moody Dark",
+          "id": "lut_orange_skin_pop_1792680898313",
+          "name": "Orange Skin Pop",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 100,
+          "sort_order": 21,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/orange_skin_pop.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/orange_skin_pop.png"
+        },
+        {
+          "id": "lut_orange_skin_pop_1792680916940",
+          "name": "Orange Skin Pop",
           "category_id": "high_contrast",
           "is_premium": true,
           "intensity_default": 100,
           "sort_order": 22,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/moody_dark.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/moody_dark.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/orange_skin_pop.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/orange_skin_pop.png"
         },
         {
-          "id": "lut_moody_dark_1792680969091",
-          "name": "Moody Dark",
+          "id": "lut_summer_vibrant_1792681015897",
+          "name": "Summer Vibrant",
           "category_id": "high_contrast",
           "is_premium": true,
-          "intensity_default": 100,
+          "intensity_default": 98,
           "sort_order": 23,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/moody_dark.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/moody_dark.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/summer_vibrant.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
         },
         {
-          "id": "lut_moody_dark_1792680977704",
-          "name": "Moody Dark",
+          "id": "lut_summer_vibrant_1792681031557",
+          "name": "Summer Vibrant",
           "category_id": "high_contrast",
           "is_premium": true,
-          "intensity_default": 100,
+          "intensity_default": 98,
           "sort_order": 24,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/moody_dark.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/moody_dark.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/summer_vibrant.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
+        },
+        {
+          "id": "lut_summer_vibrant_1792681040016",
+          "name": "Summer Vibrant",
+          "category_id": "high_contrast",
+          "is_premium": true,
+          "intensity_default": 98,
+          "sort_order": 25,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/summer_vibrant.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/summer_vibrant.png"
         }
       ]
     },
@@ -253,24 +253,34 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/silver_mono_soft.png"
         },
         {
-          "id": "lut_muted_desaturated_1792681084829",
-          "name": "Muted Desaturated",
+          "id": "lut_cool_blue_mood_1792680784098",
+          "name": "Cool Blue Mood",
           "category_id": "vintage",
           "is_premium": false,
           "intensity_default": 100,
-          "sort_order": 25,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/muted_desaturated.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/muted_desaturated.png"
+          "sort_order": 20,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/cool_blue_mood.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/cool_blue_mood.png"
         },
         {
-          "id": "lut_muted_desaturated_1792681099026",
-          "name": "Muted Desaturated",
+          "id": "lut_black_white_soft_1792681152621",
+          "name": "Black White Soft",
           "category_id": "vintage",
           "is_premium": false,
           "intensity_default": 100,
           "sort_order": 26,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/muted_desaturated.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/muted_desaturated.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/black_white_soft.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/black_white_soft.png"
+        },
+        {
+          "id": "lut_black_white_soft_1792681168350",
+          "name": "Black White Soft",
+          "category_id": "vintage",
+          "is_premium": false,
+          "intensity_default": 100,
+          "sort_order": 27,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/black_white_soft.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/black_white_soft.png"
         }
       ]
     },
