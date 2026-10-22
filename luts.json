@@ -117,16 +117,6 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_night.png"
         },
         {
-          "id": "lut_neon_night_1792681287104",
-          "name": "Neon_Night",
-          "category_id": "cinematic",
-          "is_premium": true,
-          "intensity_default": 100,
-          "sort_order": 29,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/neon_night.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/neon_night.png"
-        },
-        {
           "id": "lut_neon_night_1792681296683",
           "name": "Neon_Night",
           "category_id": "cinematic",
