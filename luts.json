@@ -105,6 +105,26 @@
           "sort_order": 10,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/music_red_cyan.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/music_red_cyan.png"
+        },
+        {
+          "id": "lut_bleach_bypass_1792680827761",
+          "name": "Bleach Bypass",
+          "category_id": "cinematic",
+          "is_premium": false,
+          "intensity_default": 100,
+          "sort_order": 20,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/bleach_bypass.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/bleach_bypass.png"
+        },
+        {
+          "id": "lut_bleach_bypass_1792680855256",
+          "name": "Bleach Bypass",
+          "category_id": "cinematic",
+          "is_premium": false,
+          "intensity_default": 100,
+          "sort_order": 21,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/bleach_bypass.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/bleach_bypass.png"
         }
       ]
     },
@@ -201,16 +221,6 @@
           "sort_order": 2,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/silver_mono_soft.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/silver_mono_soft.png"
-        },
-        {
-          "id": "lut_cool_blue_mood_1792680784098",
-          "name": "Cool Blue Mood",
-          "category_id": "vintage",
-          "is_premium": false,
-          "intensity_default": 100,
-          "sort_order": 20,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/cool_blue_mood.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/cool_blue_mood.png"
         }
       ]
     },
