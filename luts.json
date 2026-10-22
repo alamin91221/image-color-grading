@@ -201,6 +201,16 @@
           "sort_order": 2,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/silver_mono_soft.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/silver_mono_soft.png"
+        },
+        {
+          "id": "lut_cool_blue_mood_1792680784098",
+          "name": "Cool Blue Mood",
+          "category_id": "vintage",
+          "is_premium": false,
+          "intensity_default": 100,
+          "sort_order": 20,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/cool_blue_mood.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/cool_blue_mood.png"
         }
       ]
     },
