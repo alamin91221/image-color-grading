@@ -1,0 +1,44 @@
+{
+  "app_version": "1.0.0",
+  "min_supported_version_code": 1,
+  "force_update": false,
+  "update_url": "https://play.google.com/store/apps/details?id=com.nilasharafi.imagecolorgrading",
+  "maintenance_mode": false,
+  "maintenance_message": "App is currently under scheduled maintenance. Please check back soon.",
+  "luts_json_url": "https://raw.githubusercontent.com/lutstudio/sample-luts/main/luts.json",
+  "admob": {
+    "enabled": true,
+    "test_mode": true,
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "position": "bottom",
+      "refresh_seconds": 60
+    },
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "show_every_n_actions": 3,
+      "cooldown_seconds": 45
+    },
+    "rewarded": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "native": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "app_open": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "show_on_cold_start": true
+    }
+  },
+  "premium": {
+    "default_all_premium_locked": true,
+    "unlock_duration_hours": 48,
+    "watermark_for_free_users": false
+  }
+}
