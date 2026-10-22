@@ -5,18 +5,7 @@
       "name": "Cinematic",
       "order": 1,
       "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400",
-      "luts": [
-        {
-          "id": "moody_film",
-          "name": "Moody Film",
-          "thumbnail_url": "https://images.unsplash.com/photo-1511497584788-87676104235f?w=400",
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/moody_film.cube",
-          "is_premium": false,
-          "intensity_default": 80,
-          "sort_order": 2,
-          "category_id": "cinematic"
-        }
-      ]
+      "luts": []
     },
     {
       "id": "vintage",
