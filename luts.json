@@ -17,14 +17,14 @@
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/high_contrast_warm.png"
         },
         {
-          "id": "lut_arctic_cinema_1792642635471",
-          "name": "Arctic Cinema",
+          "id": "lut_hard_sun_editorial_1792642825203",
+          "name": "Hard Sun Editorial",
           "category_id": "cinematic",
           "is_premium": true,
-          "intensity_default": 100,
+          "intensity_default": 95,
           "sort_order": 2,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/arctic_cinema.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/arctic_cinema.png"
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/hard_sun_editorial.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/hard_sun_editorial.png"
         }
       ]
     },
