@@ -35,6 +35,16 @@
           "sort_order": 3,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/teal_copper_deep.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/teal_copper_deep.png"
+        },
+        {
+          "id": "lut_warm_35mm_film_1792643228804",
+          "name": "Warm 35mm Film",
+          "category_id": "cinematic",
+          "is_premium": false,
+          "intensity_default": 100,
+          "sort_order": 4,
+          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/warm_35mm_film.cube",
+          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/warm_35mm_film.png"
         }
       ]
     },
