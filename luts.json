@@ -55,16 +55,6 @@
           "sort_order": 11,
           "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/street_night_amber.cube",
           "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/street_night_amber.png"
-        },
-        {
-          "id": "lut_street_night_amber_1792644310587",
-          "name": "Street Night Amber",
-          "category_id": "cinematic",
-          "is_premium": false,
-          "intensity_default": 89,
-          "sort_order": 12,
-          "lut_file_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/luts/street_night_amber.cube",
-          "thumbnail_url": "https://raw.githubusercontent.com/alamin91221/image-color-grading/main/thumbnails/street_night_amber.png"
         }
       ]
     },
